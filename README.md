@@ -6,7 +6,7 @@ I am currently pursuing a Higher National Diploma in Systems Analysis at Estáci
 
 ➡️ Backend: Node | MySQL | Express | Sequelize | Workbench | JWT.
 
-![image]([https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white))
+![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![image](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) ![image](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![image](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
 ➡️ Frontend: JavaScript | React | Vercel | Figma | HTML5 | CSS3.
 

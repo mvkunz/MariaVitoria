@@ -9,6 +9,6 @@ I am currently pursuing a Higher National Diploma in Systems Analysis at Estáci
 ➡️ Tools: Trello | GitHub | Docker
 
 
-<img src="{https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
-}" />
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
+" />
 

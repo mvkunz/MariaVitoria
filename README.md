@@ -8,6 +8,6 @@ I am currently pursuing a Higher National Diploma in Systems Analysis at Estáci
 ➡️ Frontend: JavaScript | React | Vercel | Figma | HTML5 | CSS3.
 ➡️ Tools: Trello | GitHub | Docker
 
-
+![image] (https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
 )

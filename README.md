@@ -5,8 +5,14 @@ I am currently pursuing a Higher National Diploma in Systems Analysis at Estáci
 📝 Stacks that i worked with:
 
 ➡️ Backend: Node | MySQL | Express | Sequelize | Workbench | JWT.
-➡️ Frontend: JavaScript | React | Vercel | Figma | HTML5 | CSS3.
-➡️ Tools: Trello | GitHub | Docker
 
-![image](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) | ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) | ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![image] (https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+
+➡️ Frontend: JavaScript | React | Vercel | Figma | HTML5 | CSS3.
+
+➡️ Tools: 
+![image](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+➡️ <b>OS</b>:
+![image] (https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 

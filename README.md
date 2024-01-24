@@ -28,4 +28,4 @@ I am currently pursuing a Higher National Diploma in Systems Analysis at Estáci
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Maria Vitoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvkunz&show_icons=true&theme=tokyonight)
